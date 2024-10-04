@@ -1,14 +1,22 @@
 # Design Systems with Vue 3
 
-### **What is a Design System?**
----
-A design system is a complete set of standards intended to manage design at scale using reusable components and patterns.
-
-### **Design System Pillars:**
-
+## **What is a Design System?**
 ---
 
-1. **Design Language** 🎨
+**A design system is a collection of reusable components, guidelines, and principles that define how a product or brand should look and behave.** It serves as a centralized source of truth for design decisions, ensuring consistency and efficiency throughout the development process.
+
+**Key components of a design system typically include:**
+
+* **Atomic design:** A methodology for breaking down UI into smaller, reusable components (atoms, molecules, organisms).
+* **Style guide:** A set of rules governing typography, color, spacing, and other visual elements.
+* **Component library:** A collection of pre-built, reusable UI components.
+* **Pattern library:** Examples of how components can be combined to create different UI patterns.
+
+## **Design System Pillars:**
+
+---
+
+1. **Design Language** 
    - **Color Palettes**: Defines primary, secondary, and neutral colors.
    - **Typography**: Specifies font families, sizes, weights, and styles.
    - **Icons**: Establishes a consistent set of icons.
@@ -18,24 +26,19 @@ A design system is a complete set of standards intended to manage design at scal
    - **Layout Grids**: Provides structure for spacing and alignment.
    - **Figma/Sketch**: Tools for prototyping and design collaboration.
 
-3. **Component Library** 📚
+3. **Component Library** 
    - **React/Angular/Vue**: Libraries of reusable components.
    - **Styled Components**: Ensures consistent styling across the app.
    - **Testing**: Ensures components work correctly in different scenarios.
 
-4. **Style Guide** 📝
+4. **Style Guide** 
    - **Documentation**: Detailed guidelines and examples for usage.
    - **Storybook**: Interactive environment to develop and test components.
    - **Gatsby.js**: For building and deploying style guides and documentation sites.
 
-### **Design Systems: Enhancing Brand Identity and Accessibility**
 
+## **Benefits of Design Systems**
 ---
-
-### Introduction
-Design systems help companies to define their brand identity and turn them into accessible, consistent, and reusable components. This provides a variety of benefits, ensuring that everyone, despite their condition, can use your product effectively.
-
-### Benefits of Design Systems
 
 #### 1. Accessibility
 - **Color Contrast Ratios:** Design systems make sure that applications have enough colors with proper contrast ratios.
@@ -63,32 +66,32 @@ Design systems help companies to define their brand identity and turn them into 
 Once a design system is in place and stable, both designers and developers can work more efficiently, delivering new features quickly by just consuming and showcasing pre-developed and designed components.
 
 
-### **Drawback of building Design System**
+## **Drawback of building Design System**
 ---
 
-**1. Time and Resource Investment** ⏳
+**1. Time and Resource Investment** 
 - Takes years to build.
 - Companies value this seriously.
 
-**2. Team Structure** 👥
+**2. Team Structure** 
 - Essential to have the right team.
 - Includes designers, engineers, and product managers.
 - Separate lecture on team structures.
 
-**3. Continuous Evolution** 🔄
+**3. Continuous Evolution** 
 - Lasts as long as your products exist.
 - Serves and improves other products.
 
-**4. Maintenance** 🛠️
+**4. Maintenance**
 - Requires ongoing updates.
 - Communicate resource needs to stakeholders.
 
-**5. Adaptation Challenge** ⚖️
+**5. Adaptation Challenge** 
 - Main issue is ensuring teams adopt the system.
 - Proper team structure helps in tackling this.
 
 
-### **Design System Team Structure**
+## **Design System Team Structure**
 
 ---
 
@@ -121,7 +124,7 @@ Ultimately, the best team structure for your organization will depend on your sp
 - Governance: A governance process should be in place to ensure that the design system is evolving in a way that meets the needs of all stakeholders.
 
 
-### Building Your Own Design System: A Foundation for Success
+## Building Your Own Design System: A Foundation for Success
 ---
 
 **The Importance of Originality**
@@ -153,4 +156,27 @@ Once you have a strong foundation, you can leverage tools like Figma, Vue, Gatsb
 * **Storybook:** Isolate and showcase individual components to facilitate development and testing.
 
 By following these principles and mastering the necessary tools, you can create a design system that is not only visually appealing but also aligns with your brand's identity and supports your business goals. Remember, the key to success lies in building a foundation that is uniquely yours.
+
+
+## **Design and Development Checklist for Components**
+---
+
+### Design Phase
+
+* **Accessibility:** Ensure components are usable by all users, including those with disabilities.
+* **Interactions:** Define all possible interactions and feedback.
+* **Context:** Determine where and how the component should be used.
+* **States:** Define states like hover, clicked, disabled, etc.
+* **Content:** Ensure content aligns with brand identity.
+* **Customization:** Define customizable parameters and their impact.
+* **Responsiveness:** Consider how the component behaves on different screen sizes.
+
+### Development Phase
+* **Accessibility:** Use semantic HTML and consider keyboard navigation.
+* **Responsiveness:** Ensure proper behavior across screen sizes and resolutions.
+* **Customization:** Implement all defined customizable properties.
+* **Functionality:** Test component behavior and error handling.
+* **Type Checking:** Use type checking to validate props and dependencies.
+* **Browser Compatibility:** Consider polyfills for browser-specific features.
+
 
