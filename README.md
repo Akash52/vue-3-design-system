@@ -179,4 +179,25 @@ By following these principles and mastering the necessary tools, you can create 
 * **Type Checking:** Use type checking to validate props and dependencies.
 * **Browser Compatibility:** Consider polyfills for browser-specific features.
 
+## **Avoiding Design System Mistakes**
+
+**1. Start Small:**
+
+* **Begin with a core set of components:** Focus on essential elements like buttons, text fields, and headings.
+* **Iterate and expand:** As your system matures, gradually add more components and features.
+
+**2. Show, Don't Tell:**
+
+* **Create tangible examples:** Develop working prototypes or components to demonstrate the system's capabilities.
+* **Involve others early:** Invite stakeholders to provide feedback and contribute ideas.
+
+**3. Document Your Decisions:**
+
+* **Maintain a design system documentation:** Record rationale, usage guidelines, and best practices.
+* **Use version control:** Track changes and updates to the design system.
+* **Share documentation with the team:** Ensure everyone has access to the latest information.
+
+By following these guidelines, you can avoid common pitfalls and build a successful design system that benefits your team and your organization.
+
+
 
