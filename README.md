@@ -1,4 +1,4 @@
-<h1>Design Systems with Vue 3</h1> 
+<h1>Fundamental of Design Systems</h1> 
 
 ## **What is a Design System?**
 ---
