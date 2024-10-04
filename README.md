@@ -37,7 +37,7 @@
    - **Gatsby.js**: For building and deploying style guides and documentation sites.
 
 
-## **Benefits of Design Systems**
+## **Importance of having a design system**
 ---
 
 #### 1. Accessibility
