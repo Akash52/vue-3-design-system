@@ -27,7 +27,7 @@ A **design system** is a collection of reusable components, guidelines, and prin
 
 ## **Design System Pillars** 🏛️
 
-1. **Design Language** 🌈
+1. **Design Language** 
    * **Color Palettes:** Defines primary, secondary, and neutral colors.
    * **Typography:** Specifies font families, sizes, weights, and styles.
    * **Icons:** Establishes a consistent set of icons.
