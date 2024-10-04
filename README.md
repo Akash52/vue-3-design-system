@@ -12,6 +12,16 @@
 * **Component library:** A collection of pre-built, reusable UI components.
 * **Pattern library:** Examples of how components can be combined to create different UI patterns.
 
+ ### Some popular design systems that have gained traction in the design industry and are widely used by designers and developers.
+ 1. Google — Material Design System
+ 2. Atlassian Design System
+ 3. Microsoft — Fluent Design System
+ 4. IBM Carbon Design system
+ 5. Popular design systems
+ 6. Apple Human interface Guidelines
+ 7. Airbnb Design System
+ 8. Uber design system
+
 ## **Design System Pillars:**
 
 ---
