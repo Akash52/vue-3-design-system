@@ -175,18 +175,22 @@
 ## Avoiding Design System Mistakes 🚫
 
 ---
+## 1. Don't Try to Do Everything at Once
 
-**1. Start Small:**
-* **Core Components:** Focus on essentials (e.g., begin with buttons, inputs, and typography).
-* **Iterate and Expand:** Gradually add more (e.g., add complex components like data tables in later phases).
+- **Start with the Basics:** Begin with simple, common things like buttons, text boxes, and how text looks.
+- **Grow Step by Step:** Slowly add more complicated parts as you go along.
 
-**2. Show, Don't Tell:**
-* **Tangible Examples:** Prototypes to demonstrate (e.g., create a sample page using only system components).
-* **Involve Others Early:** Stakeholder feedback and ideas (e.g., conduct workshops with product teams).
+## 2. Show Real Examples
 
-**3. Document Your Decisions:**
-* **Maintain Documentation:** Rationale, usage, best practices (e.g., explaining why certain color choices were made).
-* **Use Version Control:** Track changes (e.g., using semantic versioning for component releases).
-* **Share with Team:** Ensure access to the latest info (e.g., regular newsletters about system updates).
+- **Make Working Samples:** Create actual examples that people can see and use.
+- **Get Others Involved Early:** Ask for opinions from people who will use your design system.
+
+## 3. Write Down Your Choices
+
+- **Keep Good Notes:** Explain why you made certain choices and how to use things correctly.
+- **Track Changes:** Use a system to remember what changed and when.
+- **Tell Everyone:** Make sure your team knows about updates to the design system.
+
+  ---
 
 By following these practices and applying them to your specific context, you can confidently build a robust design system that upholds your brand and ensures seamless design and development processes. Remember, the key is to start small, involve your team, and continuously iterate based on real-world usage and feedback. 🌟
